@@ -1,0 +1,6 @@
+{
+  "name": "GESP C++ Grade 5 Exam System",
+  "description": "GESP C++ 5级(2026年3月)模拟考试系统，提供限时120分钟答题、自动提交、系统评分、解析以及按知识点和题型查看题目的功能。支持手动批改编程题。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
